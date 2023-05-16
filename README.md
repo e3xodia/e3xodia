@@ -1,12 +1,13 @@
 ## Hi, my name is Novais
 
-- But you can call me Exodia. I have 17 years old, my @ is the same for all social medias.
+- But you can call me Exodia.
+- 17 years old.
+- Brazil, Espirito Santo.
+- my @ is the same for all social medias.
 - HTML5 & CSS3.
 - Learning JavaScript.
-- Brazil, Espirito Santo.
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=e3xodia&show_icons=true&theme=dracula)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e3xodia)](https://github.com/anuraghazra/github-readme-stats)
  
  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
